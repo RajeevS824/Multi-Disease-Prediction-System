@@ -1,7 +1,7 @@
 
 # 🩺 Multi-Disease Prediction System
 
-[https://your-multidisease-prediction-app.streamlit.app/](https://your-multidisease-prediction-app.streamlit.app/)
+
 
 ---
 
