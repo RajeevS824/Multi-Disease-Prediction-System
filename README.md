@@ -12,7 +12,7 @@ Healthcare is moving towards **preventive diagnosis** powered by AI. This projec
 
 The system provides patients and healthcare professionals with a **personalized health report** based on clinical test results and lifestyle factors.
 
-The project integrates **Python (EDA & ML), Scikit-learn, XGBoost, Imbalanced-learn (SMOTE), and Streamlit (interactive UI)** to deliver actionable health predictions.
+The project integrates **Python (EDA & ML), Scikit-learn, Imbalanced-learn (SMOTE), and Streamlit (interactive UI)** to deliver actionable health predictions.
 
 ---
 
