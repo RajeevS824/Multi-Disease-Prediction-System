@@ -1,6 +1,6 @@
 
 # 🩺 Multi-Disease Prediction System
-    https://multi-disease-prediction-system-wrxvfukyfftfrshaszprsi.streamlit.app/
+    https://multi-disease-prediction-system-wrxvfukyfftfrshaszprsi.streamlit.app/](https://multi-disease-prediction-system-rsnbjermrrphjzqkkjwdb9.streamlit.app/
 
 ## 📌 Project Overview
 
