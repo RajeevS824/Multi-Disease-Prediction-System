@@ -1,7 +1,6 @@
 
 # 🩺 Multi-Disease Prediction System
-    https://multi-disease-prediction-system-wrxvfukyfftfrshaszprsi.streamlit.app/](https://multi-disease-prediction-system-rsnbjermrrphjzqkkjwdb9.streamlit.app/
-
+        https://multi-disease-prediction-system-rsnbjermrrphjzqkkjwdb9.streamlit.app/
 ## 📌 Project Overview
 
 Healthcare is moving towards **preventive diagnosis** powered by AI. This project builds an **end-to-end machine learning solution** that predicts the risk of:
