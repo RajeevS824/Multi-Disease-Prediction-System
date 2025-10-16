@@ -46,11 +46,6 @@ Implemented and compared multiple models:
 * K-Nearest Neighbors (KNN)
 * XGBoost
 
-**Best Models:**
-
-* Kidney → Logistic Regression / Random Forest (Accuracy ~97.5%)
-* Liver → Random Forest (Accuracy ~77%)
-* Parkinson → Random Forest & XGBoost (Accuracy ~92%)
 
 **Metrics Evaluated:** Accuracy, Precision, Recall, F1-Score, ROC-AUC.
 
