@@ -117,13 +117,13 @@ To solve this, we built a **Multi-Disease Prediction System** that uses machine 
 
 # 🌟 **5. Features**
 
-✔ Predicts **three major diseases** from lab parameters
+✔ Predicts **three major diseases** from lab parameters<br>
 ✔ **User-friendly Streamlit interface** <br>
-✔ **Correlation heatmaps** and **feature importance analysis**
-✔ **SMOTE** for handling imbalanced datasets
-✔ **Secure processing** with no data storage
-✔ Scalable to add more diseases
-✔ Fast inference
+✔ **Correlation heatmaps** and **feature importance analysis**<br>
+✔ **SMOTE** for handling imbalanced datasets <br>
+✔ **Secure processing** with no data storage<br>
+✔ Scalable to add more diseases<br>
+✔ Fast inference<br>
 
 ---
 
