@@ -159,11 +159,11 @@ Multi-Disease-Prediction/
 
 # 🏥 **8. Real-Life Use Cases**
 
-✔ **Rural healthcare clinics** where specialists are not available
-✔ **Early awareness tool** for patients at risk
-✔ **Telemedicine platforms** to support remote consultations
-✔ **Hospitals** to assist doctors in second-opinion diagnosis
-✔ **Health checkup centers** for quick automated reporting
+✔ **Rural healthcare clinics** where specialists are not available<br>
+✔ **Early awareness tool** for patients at risk<br>
+✔ **Telemedicine platforms** to support remote consultations<br>
+✔ **Hospitals** to assist doctors in second-opinion diagnosis<br>
+✔ **Health checkup centers** for quick automated reporting<br>
 
 ---
 
