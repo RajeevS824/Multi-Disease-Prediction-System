@@ -118,6 +118,7 @@ To solve this, we built a **Multi-Disease Prediction System** that uses machine 
 # 🌟 **5. Features**
 
 ✔ Predicts **three major diseases** from lab parameters
+
 ✔ **User-friendly Streamlit interface**
 ✔ **Correlation heatmaps** and **feature importance analysis**
 ✔ **SMOTE** for handling imbalanced datasets
